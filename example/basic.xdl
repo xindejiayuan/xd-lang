@@ -1,0 +1,3 @@
+print('xu di lang')
+set(a, 1)
+add(a, 1)
